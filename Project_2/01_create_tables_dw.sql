@@ -1,0 +1,1 @@
+-- Passo 1: DW - Criar um Star Schema
