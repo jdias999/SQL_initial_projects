@@ -5,5 +5,7 @@
 .read 01_create_tables_dw.sql
 
 --Aqui, pegando os arquivos csv e insert nas tables
-
 .read 02_load_schema_dw.sql
+
+--Agora, pegando os arquivos do flat mart
+.read 03_create_flat_mart.sql
