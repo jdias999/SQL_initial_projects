@@ -1,3 +1,6 @@
+
+--duckdb dw_marts.duckdb -c ".read build_dw_marts.sql"
+
 -- Primeiro passo, criando o star schema
 .read 01_create_tables_dw.sql
 
