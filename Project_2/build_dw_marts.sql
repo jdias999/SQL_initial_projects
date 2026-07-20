@@ -13,3 +13,8 @@
 --Agora, pegando os arquivos do skills mart
 .read 04_create_skills_mart.sql
 
+--Agora, pegando o priority mart
+.read 05_create_priority_mart.sql
+
+--Aora, pegando o update do priority mart
+.read 06_update_priority_mart.sql
