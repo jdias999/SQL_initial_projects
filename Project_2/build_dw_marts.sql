@@ -9,3 +9,7 @@
 
 --Agora, pegando os arquivos do flat mart
 .read 03_create_flat_mart.sql
+
+--Agora, pegando os arquivos do skills mart
+.read 04_create_skills_mart.sql
+
