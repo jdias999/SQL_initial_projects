@@ -32,5 +32,3 @@ Focado na engenharia estrutural. Desenvolvi um pipeline ETL de ponta a ponta que
 *   **Google Cloud Storage (GCS):** Armazenamento em nuvem dos dados brutos consumidos pelo pipeline do Projeto 2.
 
 > ** Meu Foco Profissional:** Como estudante de Análise e Desenvolvimento de Sistemas, estruturei este repositório não apenas para gerar resultados, mas para mostrar *como* os resultados são construídos de forma escalável e com boas práticas de governança.
-README_Principal.md
-Exibindo README_Principal.md.
